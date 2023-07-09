@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Estudos</string>
+
+    <string name="lista">Lista</string>
+    <string name="palavra">Palavra</string>
+
+    <string name="gerenciar_listas">Gerenciar Listas</string>
+    <string name="gerenciar_palavras">Gerenciar Palavras</string>
+    <string name="dialog_excluir_lista">Deseja realmente excluir a lista?</string>
+    <string name="dialog_excluir_palavra">Deseja realmente excluir a palavra?</string>
+
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="salvar">Salvar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="nome">Nome*</string>
+    <string name="palavra">Palavra*</string>
+    <string name="descricao">Descrição*</string>
+    <string name="selecione_a_lista">Selecione a lista*</string>
+    <string name="pronuncia">Pronuncia*</string>
+    <string name="exemplo">Exemplo*</string>
+
+</resources>
